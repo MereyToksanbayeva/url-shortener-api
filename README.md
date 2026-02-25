@@ -23,4 +23,4 @@ A simple **URL shortener service** (bit.ly style) built with Flask + SQLite.
 - `POST /api/shorten`
 Body:
 ```json
-{ "url": "https://example.com" }
+{ "url": "https://google.com" }
